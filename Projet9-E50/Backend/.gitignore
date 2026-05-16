@@ -1,0 +1,10 @@
+node_modules/
+.env
+*.log
+.DS_Store
+
+test-interface.html
+
+Service-Account-*.json
+
+uploads/*
